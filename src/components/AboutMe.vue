@@ -2,7 +2,7 @@
 
 <div class="scroll-smooth">
   <!-- All your sections (e.g., Home, Projects, About) -->
-  <section id="About" class="bg-white py-16 px-6 sm:px-12 lg:px-32">
+      <section id="About" class="bg-white py-16 px-6 sm:px-12 lg:px-32">
         <h2 class="text-4xl font-bold text-gray-900 mb-4">
             About <span class="text-purple-600">me.</span>
         </h2>
@@ -15,7 +15,7 @@
             <!-- Stack Section -->
             <div>
                 <h3 class="text-xl font-semibold mb-4">My Stack.</h3>
-                <div class="flex bg-gray-100  rounded-lg  gap-3">
+                <div class="flex bg-gray-100  rounded-lg flex-wrap   gap-3">
                     <span class="px-4 py-2 bg-gray-100 rounded-lg text-sm font-medium text-gray-700">Web Design</span>
                     <span class="px-4 py-2 bg-gray-100 rounded-lg text-sm font-medium text-gray-700">UI/UX
                         Expertise</span>
